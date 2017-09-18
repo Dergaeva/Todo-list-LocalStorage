@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0da727c7-55f0-4aa9-b576-be1b61f00bd7" name="deptaxi.com" url="http://deptax02.ftp.ukraine.com.ua">
+        <fileTransfer host="deptax02.ftp.ukraine.com.ua" port="21" password="dfe2dfcedfc9dfdedfc9dffcdfc7dfce" username="deptax02_ftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="cabc0fd9-8e98-4d60-b656-12ee5c83c491" name="deptaxi.kz" url="http://deptax00.ftp.ukraine.com.ua">
+        <fileTransfer host="deptax00.ftp.ukraine.com.ua" port="21" password="dfc9dfe9dffcdf9fdfe0dfe8dfdcdfd0" username="deptax00_ftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="213dc708-ac12-4dc5-a2f9-615dbf934798" name="yandex-deptaxi.ru" url="http://yandex-deptaxi.ru/">
+        <fileTransfer host="xl263388.ftp.ukraine.com.ua" port="21" password="df9fdfe4dfc7dfdfdfdfdfc9dfc7dff9" username="xl263388_ftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
